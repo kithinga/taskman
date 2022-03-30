@@ -9,6 +9,10 @@
 <body>
    <div class="card">
        <h1>This is the tasks page</h1>
+       <p>lorem 20
+
+       </p>
+       <h6>Mbaluku vyu</h6>
    </div>
 </body>
 </html>

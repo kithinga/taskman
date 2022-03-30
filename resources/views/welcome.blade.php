@@ -86,6 +86,7 @@
                                 <h5 class="card-title">Special title treatment</h5>
                                 <p class="card-text">With supporting text below as a natural lead-in to additional
                                     content.</p>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore, natus.</p>
                             </div>
                         </div>
                     </div>
